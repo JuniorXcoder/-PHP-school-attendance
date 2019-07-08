@@ -1,0 +1,11 @@
+div#fixedfooter {
+	position:fixed;
+	bottom:0px;
+	left:0px;
+	width:100%;
+	color:black;
+	background:777;
+	padding:8px;
+	text-align: center;
+	font-size: 100%
+}
